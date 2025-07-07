@@ -1,5 +1,10 @@
 # Songrunner
 
+Lightweight React full-stack app that generates Playlists on your Spotify account tailored to your run.
+
+
+# Installation
+
 To use this you're going to need a Spotify Account, it probably needs to be premium, i haven't tested
 with a free version. I suspect it won't have the scope to create playlists.
 
